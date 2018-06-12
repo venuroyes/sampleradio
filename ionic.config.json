@@ -1,0 +1,8 @@
+{
+  "name": "sampleradiofirebase",
+  "app_id": "a30cb7b5",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
